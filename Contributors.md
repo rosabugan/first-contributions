@@ -661,6 +661,7 @@ bilalsiraj
 - [AGunnerson]()
 - [Laksh Dhamija](https://github.com/Alumenium)
 - [Zhana Dougherty](https://github.com/ZPPD)
+- Rosa Bugan(https://gitbub.com/rosabugan)
 - [RaidAndFade](https://github.com/raidandfade)
 - [Edward Ezekiel](https://github.com/edezekiel)
 - [Parithimalan A](https://github.com/superhakar)
